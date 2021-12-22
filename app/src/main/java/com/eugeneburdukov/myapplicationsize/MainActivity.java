@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         ydpi = Resources.getSystem().getDisplayMetrics().ydpi;
 
         resolution = width + " x " + height + "DensityDpi = " + densityDpi;
-        densityScaled = "ScaledDensity" + " = " + scaledDensity;
+        densityScaled = "ScaledDensity = " + scaledDensity;
         densityNotScaled = "Density = " + density;
         yDpiValue = "xdpi" + " = " + xdpi + "; ydpi = " + ydpi;
 
